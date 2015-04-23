@@ -1,8 +1,8 @@
 {
   "name": "on-headers",
   "description": "Execute a listener when a response is about to write headers",
-  "version": "1.0.0",
-  "author": "Douglas Christopher Wilson <doug@somethingdoug.com>",
+  "version": "2.0.0",
+  "author": "Dmitriy Voeykov",
   "license": "MIT",
   "keywords": [
     "event",
@@ -10,7 +10,7 @@
     "http",
     "onheaders"
   ],
-  "repository": "jshttp/on-headers",
+  "repository": "vdmitriy/on-headers",
   "dependencies": {},
   "devDependencies": {
     "istanbul": "0.3.5",
